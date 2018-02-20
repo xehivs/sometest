@@ -6,6 +6,10 @@
 # - zmienną `b`, zawierającą liczbę typu float,
 # - zmienną `c`, zawierającą liczbę całkowitą typu float,
 # - zmienną `d`, zawierającą łańcuch `hello`,
+a = 10
+b = 3.5
+c = 5.
+d = 'hello'
 
 # %%
 
